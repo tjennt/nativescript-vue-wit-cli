@@ -1,8 +1,8 @@
 
 const state = {
     checkLogin: true,
-    nameApp: 'PROQ-SCHOOL',
-    domain: 'http://api.tantien.info/',
+    nameApp: 'DEMO APP',
+    domain: 'http://api.demo.vn/',
     authHeader: {
         'Accept': 'application/json',
         'Content-Type': 'application/json'
@@ -29,6 +29,7 @@ const actions = {
         commit('setToken', token)
     }
 }
+
 export default {
     namespaced: true,
     state,
