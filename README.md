@@ -4,7 +4,7 @@
 
 ### SCREENSHOT: 
 <p align="center">
-  <img src="https://f23-zpg.zdn.vn/2133552140007518913/36a843153fbbc3e59aaa.jpg">
+  <img width="40%" src="https://f23-zpg.zdn.vn/2133552140007518913/36a843153fbbc3e59aaa.jpg">
 </p>
 
 <hr>
