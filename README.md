@@ -1,4 +1,4 @@
-# Nativescript vue cli by wit
+# Nativescript vue cli wit
 
 
 ### SCREENSHOT: 
