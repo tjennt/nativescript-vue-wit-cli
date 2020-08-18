@@ -1,6 +1,5 @@
-# Nativescript-vue CLI by wit
+# Nativescript vue cli by wit
 
-### Author: Nguyễn Tấn Tiền
 
 ### SCREENSHOT: 
 <p align="center">
