@@ -2,6 +2,13 @@
 
 ### Author: Nguyễn Tấn Tiền
 
+### SCREENSHOT: 
+<p align="center">
+  <img src="https://f23-zpg.zdn.vn/2133552140007518913/36a843153fbbc3e59aaa.jpg">
+</p>
+
+<hr>
+
 ### CLONE: git clone 
 ```
 https://github.com/tienntps09110/nativescript-vue-wit-cli
@@ -18,6 +25,8 @@ npm install
 tns run android
 tns run ios
 ```
+
+<hr>
 
 ### Build app debug
 ```
