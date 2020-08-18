@@ -1,10 +1,10 @@
-# Nativescript-vue system school TeamproQ
+# Nativescript-vue CLI by wit
 
 ### Author: Nguyễn Tấn Tiền
 
 ### CLONE: git clone 
 ```
-git clone git@github.com:tienntps09110/vue-native-system-school.git
+https://github.com/tienntps09110/nativescript-vue-wit-cli
 ```
 
 ### INSTALL
@@ -24,7 +24,7 @@ tns run ios
 nativescript build android
 ```
 
-### Build app production
+### Build app release
 ```
 tns build android --release \
   --key-store-path "$HOME/.keystore" \
